@@ -17,10 +17,12 @@ This project fine-tunes a GPT-2 model using Direct Preference Optimization (DPO)
 - ✅ **Hugging Face Integration** – Automatically loads Suryansh-bit/a5-dpo-st124997.<br>
 
 <hr>
+
 ## 🎥 App Demo
 
 ![image](https://github.com/user-attachments/assets/2c9ff706-591b-4882-bfd5-7c3dc4a1f34e)
 _Screenshot of theWeb App Interface_
+
 <hr>
 
 The structure is organized as follows:
