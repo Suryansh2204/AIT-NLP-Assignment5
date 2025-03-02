@@ -111,8 +111,8 @@ AIT-NLP-Assignment5/
 ### Step 1: Clone the Repository
 
 ```
-git clone https://github.com/Suryansh2204/AIT-NLP-Assignment2.git
-cd your-repository
+git clone https://github.com/Suryansh2204/AIT-NLP-Assignment5.git
+cd AIT-NLP-Assignment5
 ```
 
 ## Setup and Running the Application
