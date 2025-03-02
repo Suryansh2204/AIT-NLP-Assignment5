@@ -23,6 +23,8 @@ This project fine-tunes a GPT-2 model using Direct Preference Optimization (DPO)
 ![image](https://github.com/user-attachments/assets/2c9ff706-591b-4882-bfd5-7c3dc4a1f34e)
 _Screenshot of theWeb App Interface_
 
+![Recording2025-03-02134947-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/a4bc5094-328c-4b68-a646-d1c4eeaa7643)
+
 <hr>
 
 The structure is organized as follows:
