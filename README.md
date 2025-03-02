@@ -28,7 +28,6 @@ AIT-NLP-Assignment5/
 │   │   ├── public/
 │   │   ├── src/
 │   ├── server/   # Flask backend
-│   │   ├── models/   # Stores trained model, tokenizer, tokenized_dataset, vocab, and the LSTM class to support the model
 │   │   ├── app.py
 │   │   ├── requirements.txt
 │   │   ├── Dockerfile
